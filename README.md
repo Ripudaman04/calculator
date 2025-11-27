@@ -1,19 +1,53 @@
- Simple Calculator
+# Simple Calculator 🧮✨
 
-A basic web calculator built using HTML, CSS, and JavaScript.
-It performs fundamental math operations: addition, subtraction, multiplication, and division.
+A modern and interactive calculator built using **HTML**, **CSS**, and **JavaScript**.  
+This is my first deployed web project—designed with a clean UI and beginner-friendly code.  
 
- Features
-- Clean and responsive UI
-- Button click events using JavaScript
-- Beginner-friendly code
+---
 
- What I learned
-- JavaScript DOM handling
-- Designing UI using CSS
-- Structuring a small web app
+## 🔗 Live Demo  
+Try it here:  
+▶️ https://ripudaman04.github.io/calculator/
 
- Future Enhancements
-- Add keyboard support
-- Improve UI animations
+---
+
+## 🖼️ Preview  
+![Calculator Screenshot](./calculator-preview.png)
+
+> Calculation made simple — one click at a time!
+
+---
+
+## 🛠️ Tools Used  
+- HTML  
+- CSS  
+- JavaScript  
+- GitHub Pages (Deployment)
+
+---
+
+## ✨ Features  
+✔ Basic arithmetic operations  
+✔ Percentage and delete functionality  
+✔ AC button to clear all  
+✔ Fully responsive UI  
+✔ Smooth, modern design with glowing effects  
+
+---
+
+## 📌 Future Improvements  
+🔹 Add keyboard support  
+🔹 Add dark/light theme toggle  
+🔹 Add history of operations  
+
+---
+
+## 🙋‍♀️ About the Creator  
+Hi! I’m **Ripu Daman**, exploring technology through hands-on learning and real mini-projects.  
+Every new skill starts with curiosity and one small step.
+
+---
+
+> ⭐ If you like this project, feel free to ‘Star’ the repository and follow my journey!
+
 
